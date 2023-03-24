@@ -73,3 +73,6 @@
 
 // in clock cycles
 #define GPIO_INPUT_PIN_DELAY 0
+
+#define BOOTMAGIC_LITE_ROW 0
+#define BOOTMAGIC_LITE_COLUMN 0
