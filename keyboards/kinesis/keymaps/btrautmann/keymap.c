@@ -16,7 +16,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         // left thumb
                             KC_LGUI, KC_LALT,
                                      KC_HOME,
-                   KC_BSPC, KC_DEL,  KC_END,
+                   KC_BSPC, KC_ESC,  KC_END,
         // right hand
         KC_F9,  KC_F10,   KC_F11,   KC_F12,   KC_PSCR, KC_SCRL, KC_PAUS, MO(_CHOOSE), QK_BOOT,
         KC_6,   KC_7,     KC_8,     KC_9,     KC_0,    KC_MINS,
@@ -41,7 +41,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         // left thumb
                             KC_LCTL, KC_LALT,
                                      KC_HOME,
-                   KC_BSPC, KC_DEL,  KC_END,
+                   KC_BSPC, KC_ESC,  KC_END,
         // right hand
         KC_F9,  KC_F10,   KC_F11,   KC_F12,   KC_PSCR, KC_SCRL, KC_PAUS, MO(_CHOOSE), QK_BOOT,
         KC_6,   KC_7,     KC_8,     KC_9,     KC_0,    KC_MINS,
